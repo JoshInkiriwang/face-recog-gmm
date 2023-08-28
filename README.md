@@ -28,7 +28,7 @@ To run the notebook and experiment with the facial recognition system:
 
 3. Place your facial image data in the `data/` directory. Ensure that you use images with higher resolutions to potentially improve accuracy.
 
-4. Open the `final_project.ipynb` notebook in a Jupyter environment.
+4. Open the `/Final-Project_GMM-Backpropagation.ipynb` notebook in a Jupyter environment.
 
 5. Execute the notebook cells to run the facial recognition system using GMM and Backpropagation.
 
