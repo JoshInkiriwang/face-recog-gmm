@@ -6,7 +6,7 @@ This repository contains the implementation of a facial recognition system using
 
 The project consists of the following components:
 
-1. **Notebook File**: The main notebook file is `final_project.ipynb`, which contains the implementation of the facial recognition system using GMM and Backpropagation.
+1. **Notebook File**: The main notebook file is `Final-Project_GMM-Backpropagation.ipynb`, which contains the implementation of the facial recognition system using GMM and Backpropagation.
 
 2. **Data**: The project uses facial images for training and testing. The data should be stored in a directory named `data/` within the repository. Due to the observed low accuracy, it is recommended to use images with higher resolutions for better performance.
 
@@ -28,7 +28,7 @@ To run the notebook and experiment with the facial recognition system:
 
 3. Place your facial image data in the `data/` directory. Ensure that you use images with higher resolutions to potentially improve accuracy.
 
-4. Open the `/Final-Project_GMM-Backpropagation.ipynb` notebook in a Jupyter environment.
+4. Open the `Final-Project_GMM-Backpropagation.ipynb` notebook in a Jupyter environment.
 
 5. Execute the notebook cells to run the facial recognition system using GMM and Backpropagation.
 
