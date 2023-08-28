@@ -58,8 +58,8 @@ As observed, the current implementation's accuracy is below 50% due to the limit
 
 ## Acknowledgments
 
-This project was developed by [Your Name] as a final project for [Course Name or Institution]. The implementation is a starting point, and future improvements can lead to better accuracy in facial recognition.
+This project was developed by Joshua Verbiano Inkiriwang as a final project for Multimedia Nusantara University. The implementation is a starting point, and future improvements can lead to better accuracy in facial recognition.
 
-If you have any questions or suggestions, feel free to [contact me](mailto:youremail@example.com).
+If you have any questions or suggestions, feel free to inkiriwangjosh21@gmail.com
 
 Repository URL: [https://github.com/JoshInkiriwang/face-recog-gmm](https://github.com/JoshInkiriwang/face-recog-gmm)
