@@ -1,6 +1,6 @@
 # Facial Recognition with Gaussian Mixture Model (GMM) and Backpropagation
 
-This repository contains the implementation of a facial recognition system using Gaussian Mixture Model (GMM) and Backpropagation. The goal of this project is to recognize faces from input images and achieve a high accuracy rate. The initial implementation uses GMM for feature extraction and Backpropagation for classification. However, due to issues with low accuracy, additional approaches such as Convolutional Neural Networks (CNNs) are recommended for improving the performance.
+This repository contains the implementation of a facial recognition system using Gaussian Mixture Model (GMM) and Backpropagation. The goal of this project is to recognize faces from input images and achieve a high accuracy rate. The initial implementation uses GMM for feature extraction and Backpropagation for classification. However, due to issues with low accuracy, additional approaches such as Convolutional Neural Networks (CNNs) are recommended for improving the accuracy.
 
 ## Project Overview
 
