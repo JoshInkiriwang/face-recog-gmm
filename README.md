@@ -51,7 +51,7 @@ As observed, the current implementation's accuracy is below 50% due to the limit
 ```
 /
 ├── data/                   # Directory for storing facial image data
-├── final_project.ipynb     # Main notebook for the project
+├── Final-Project_GMM-Backpropagation.ipynb     # Main notebook for the project
 ├── requirements.txt        # List of dependencies
 └── README.md               # This README file
 ```
